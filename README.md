@@ -1,24 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=자바%20개발자&fontSize=90)
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=diewhite&show_icons=true&theme=radical)](https://github.com/diewhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diewhite&layout=compact)](https://github.com/diewhite/github-readme-status)
-
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=JAVA%20Dev&animation=fadeIn&fontSize=70&fontAlignY=60)
+## 자바 학습중입니다 👋
 ---
-**안녕**<br>
-*하세요*<br>
-~~취소선~~<br>
-* 1번
-* 2번
-- 1번
-- 2번<br>
-[Google](https://google.com)
-```
-System.WriteLine();
-```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diewhite&layout=compact)](https://github.com/diewhite/github-readme-stats)
+[![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=diewhite&show_icons=true&theme=gruvbox)](https://github.com/diewhite)
+
+
+
